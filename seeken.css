@@ -1,0 +1,375 @@
+.wrapper{
+	display: flex;
+	flex-direction: column;
+}
+.header{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	background-color: #f56640;
+	color: white;
+	}
+
+.but{
+	color: white;
+	background-color: black;
+}
+.but2new{
+	background-color: #1a202c;
+	color: white;
+	width: 350px;
+	height: 50px;
+	margin-left: -80px;
+	font-size: x-large;
+}
+.saleHour{
+	font-size: x-large;
+	margin-left: -100px;
+}
+.offer{
+	margin-top: 40px;
+	font-size: x-large;
+}
+.sale{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around ;
+	align-content: center;
+	background-color: #1a202c;
+	color: white;
+
+}
+.timer{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+}
+.days{
+	padding: 10px;
+	margin-top: -20px;
+	color: #f56640;
+}
+.days1{
+	padding-top : 10px;
+	margin-top: -20px;
+	color: #f56640;
+
+}
+.introV{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	background-color: #f56640;
+	height: 300px;
+
+	
+}
+.video{
+	margin-top: -220px;
+	width: 700px;
+	height: 450px;
+
+}
+.introV{
+	padding-top: 250px;
+}
+.but2{
+	font-size: xx-large;
+	width: 200px;
+	height: 20px;
+	color: #1a202c;
+}
+
+
+.about{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	background-color: #1a202c;
+	color: white;
+	font-size: x-large;
+	padding: 7px;
+
+}
+
+.getCourse{
+	
+	color: white;
+	background-color: #f56640;
+	font-size: x-large;
+	padding: 28px;
+	margin-top: 50px;
+	margin-left: -30px;
+
+
+}
+
+#fname{
+	width: 100%;
+}
+
+.form{
+	display: flex;
+	flex-direction: row;
+	align-content: right;
+	justify-content: space-around;
+}
+
+.formvala{
+	margin: 10px;
+	font-size: x-large;
+
+}
+
+
+
+.faq{
+	background-color: #f56640;
+	color: white;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+	text-align: center;
+	font-size: xx-large;
+}
+.faq2{
+	
+    padding: 10px;
+	color: white;
+	display: flex;
+	flex-direction: column;
+	border: 1px solid;
+
+}
+.faq3{
+	
+	padding: 10px;
+	color: white;
+	display: flex;
+	flex-direction: column;
+	border: 1px solid;
+
+}
+.faq4{
+	
+	padding: 10px;
+	color: white;
+	display: flex;
+	flex-direction: column;
+	border: 1px solid;
+
+}
+.faq5{
+	
+	padding: 10px;
+	color: white;
+	display: flex;
+	flex-direction: column;
+	border: 1px solid;
+
+}
+.faq6{
+	
+	padding: 10px;
+	color: white;
+	display: flex;
+	flex-direction: column;
+	border: 1px solid;
+
+}
+.faq7{
+	
+	padding: 10px;
+	color: white;
+	display: flex;
+	flex-direction: column;
+	border: 1px solid;
+
+}
+.faq8{
+	
+	padding: 10px;
+	color: white;
+	display: flex;
+	flex-direction: column;
+	border: 1px solid;
+
+}
+.faq9{
+	
+	padding: 10px;
+	color: white;
+	display: flex;
+	flex-direction: column;
+	border: 1px solid;
+
+}
+.faq10{
+	
+	padding: 10px;
+	color: white;
+	display: flex;
+	flex-direction: column;
+	border: 1px solid;
+
+}
+.faq11{
+	
+	padding: 10px;
+	color: white;
+	display: flex;
+	flex-direction: column;
+	border: 1px solid;
+
+}
+.faq12{
+	
+	padding: 10px;
+	color: white;
+	display: flex;
+	flex-direction: column;
+	border: 1px solid;
+
+}
+.faq13{
+	
+	padding: 10px;
+	color: white;
+	display: flex;
+	flex-direction: column;
+	border: 1px solid;
+
+}
+.faq14{
+	
+	padding: 10px;
+	color: white;
+	display: flex;
+	flex-direction: column;
+	border: 1px solid;
+
+}
+
+
+#option{
+	background-color: #f56640 ;
+	color: white;
+}
+
+
+
+
+.footer1{
+	position: relative;
+	color: white;
+	font-size: x-large;
+	padding: 50px;
+	display: flex;
+	flex-direction: row;
+	padding: 0;
+	justify-content: space-evenly;
+
+
+}
+.footer2{
+	position: absolute;
+	background-image: none;
+	color: white;
+	display: flex;
+	flex-direction: row;
+	text-align: left;
+
+}
+.but7{
+	color: white;
+	background-color: #f56640;
+	width: 300px;
+	height: 50px;
+	font-size: 25px;
+
+
+}
+
+.texxt{
+	font-size: x-large;
+	width: 100px;
+
+}
+.but100{
+	padding: 20px;
+	width: 500px;
+	font-size: x-large;
+	border-radius: 10px;
+	margin-left: 400px;
+}
+.support{
+	font-size: xx-large;
+	font-family: "Helvetica Neue";
+}
+
+#h2{
+	font-size: small;
+	justify-content: space-around;
+	display: flex;
+	flex-direction: column;
+}
+.footer3{
+	display: flex;
+	flex-direction: row;
+	margin-left: -300px;
+	margin-top: 50px;
+
+}
+	.mainfooter{
+
+	
+	background-color: #1a202c;
+	display: flex;
+	flex-direction: row;
+	margin-top: -70px;
+	padding-top: 10px;
+	width: 100%;
+	height: 80px;
+	color: white;
+	justify-content: space-evenly;
+}
+
+.image{
+	width: 100%;
+	
+}
+ul li{
+	list-style-type: none;
+	color: white;
+	width: 20px;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+}
+.logos{
+	background-color:#1a202c ;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+}
+.mainfooter2{
+		background-color:#1a202c ;
+		color: white;
+		font-size: medium;
+		justify-content: center;
+		text-align: center;
+
+}
+.submit{
+	width: 500px;
+	height: 50px;
+	background-color:#1a202c ;
+	color: white;
+
+}
+
+
+body{
+	margin: 0px;
+}
+
